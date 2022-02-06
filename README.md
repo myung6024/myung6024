@@ -2,6 +2,7 @@
 
 ![Myung's GitHub stats](https://github-readme-stats.vercel.app/api?username=myung6024&show_icons=true&theme=radical)
 
+### 📫 How to reach me :
 - Email: myung6024@gmail.com
 - GitHub: http://github.com/myung6024
 - Tech Blog: https://myung6024.tistory.com/

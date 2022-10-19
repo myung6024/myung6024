@@ -8,7 +8,7 @@
 - Tech Blog: https://myung6024.tistory.com/
 - linkedIn: https://www.linkedin.com/in/myungjun-hyun-888039176/
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmyung6024%2Fhit-counter&count_bg=%234DB200&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+🌱[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmyung6024%2Fhit-counter&count_bg=%234DB200&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **myung6024/myung6024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -6,7 +6,7 @@
 - Email: myung6024@gmail.com
 - GitHub: http://github.com/myung6024
 - Tech Blog: https://myung6024.tistory.com/
-- linkedIn: https://www.linkedin.com/in/myungjun-hyun-888039176/
+- linkedIn: https://www.linkedin.com/in/%EB%AA%85%EC%A4%80-%ED%98%84-888039176
 
 🌱[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmyung6024%2Fhit-counter&count_bg=%234DB200&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
